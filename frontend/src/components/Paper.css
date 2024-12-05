@@ -1,0 +1,91 @@
+.paper-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .paper-title {
+    font-size: 24px;
+    color: #2e7d32; /* Green color */
+    margin-bottom: 10px;
+  }
+
+  .paper-authors {
+    font-size: 14px;
+    color: #555;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .paper-authors span {
+    color: orange;
+  }
+  
+  .paper-content {
+    font-size: 16px;
+    color: black;  
+    margin-bottom: 10px;
+    line-height: 1.6;
+  
+  }
+  
+  .paper-subjects {
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .paper-subjects span {
+    color: orange;
+  }
+  
+  .paper-publish-date {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  .paper-link {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  .paper-link a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .paper-link a:hover {
+    text-decoration: underline;
+  }
+
+
+  .pdf-link a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .pdf-link a:hover {
+    text-decoration: underline;
+  }
+
+
+  .icon-item {
+    color: red;
+    position: relative;
+    top: 3px;
+    left: 20px;
+  }
+  
+  .favorite-icon {
+    cursor: pointer;
+  }
+
+  .favorite-icon:hover .icon-item {
+    color: red;
+    transform: scale(1.2);
+  }
+  

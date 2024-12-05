@@ -1,0 +1,30 @@
+.arxiv-page {
+    padding: 20px;
+  }
+  
+  .paper {
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .paper h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .paper p {
+    margin: 10px 0;
+  }
+  
+  .paper a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .paper a:hover {
+    text-decoration: underline;
+  }
+  
