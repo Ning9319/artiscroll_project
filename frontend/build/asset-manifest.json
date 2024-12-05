@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/artiscroll_project/static/css/main.ff864629.css",
-    "main.js": "/artiscroll_project/static/js/main.a3e17792.js",
-    "static/media/cola.jpg": "/artiscroll_project/static/media/cola.4c977302c28afc81c334.jpg",
-    "static/media/ml.jpg": "/artiscroll_project/static/media/ml.886e3f7375b1ac663c53.jpg",
-    "static/media/ai.jpg": "/artiscroll_project/static/media/ai.3677529c51f43fbf095f.jpg",
-    "index.html": "/artiscroll_project/index.html",
-    "main.ff864629.css.map": "/artiscroll_project/static/css/main.ff864629.css.map",
-    "main.a3e17792.js.map": "/artiscroll_project/static/js/main.a3e17792.js.map"
+    "main.css": "/artiscroll/static/css/main.ff864629.css",
+    "main.js": "/artiscroll/static/js/main.ceda79db.js",
+    "static/media/cola.jpg": "/artiscroll/static/media/cola.4c977302c28afc81c334.jpg",
+    "static/media/ml.jpg": "/artiscroll/static/media/ml.886e3f7375b1ac663c53.jpg",
+    "static/media/ai.jpg": "/artiscroll/static/media/ai.3677529c51f43fbf095f.jpg",
+    "index.html": "/artiscroll/index.html",
+    "main.ff864629.css.map": "/artiscroll/static/css/main.ff864629.css.map",
+    "main.ceda79db.js.map": "/artiscroll/static/js/main.ceda79db.js.map"
   },
   "entrypoints": [
     "static/css/main.ff864629.css",
-    "static/js/main.a3e17792.js"
+    "static/js/main.ceda79db.js"
   ]
 }
